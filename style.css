@@ -62,3 +62,11 @@ p{
     font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
+
+img{
+    float : left; /* Text is around it */
+}
+footer{
+    clear:both;
+    text-align: center;
+}

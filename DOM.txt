@@ -1,0 +1,4 @@
+Document Object Model(DOM) : Each browser has its own javascript engine.Chrome has v8 engine,safari has nitros nad many more.
+Javascript engines read javascript and then try to execute it line by line.Javascript engine binds with DOM.
+
+-> Window is parent Object of Document , alert , prompt also have Window parent.

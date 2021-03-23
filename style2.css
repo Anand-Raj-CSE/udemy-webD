@@ -1,0 +1,20 @@
+h2{
+    color: blue;
+}
+.boxmodel{
+    border: 5px solid red;
+    display: inline-block; /* This would display all the divs in 1 line*/
+    padding : 20px; /*This creats space in the box between box and content */
+    padding: 5px 20px ;
+    margin: 20px;/*This creates space between the boxes , this wouls apply on all sides of the box*/
+    margin: 0px 20px;
+    width: 33px;
+    height:55px;
+}
+p{
+    font-size: 20px;
+}
+span{
+    font-size: 3em; /*Make span font 3x the containing element*/
+    font-size: 2rem; /*This is in relation to HTML*/
+}
